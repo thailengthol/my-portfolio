@@ -27,6 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+# theme: jekyll-theme-minimal
 minimal_mistakes_skin: "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Outputting
 permalink: /:categories/:title/
@@ -114,5 +115,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-theme: jekyll-theme-minimal
